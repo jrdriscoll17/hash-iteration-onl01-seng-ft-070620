@@ -17,3 +17,7 @@ def select_winner(passengers)
    
   winner
 end
+
+def int_test
+  
+end
